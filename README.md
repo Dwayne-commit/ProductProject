@@ -1,0 +1,1 @@
+A Web Application built with Spring Boot, Java, MySQL, and Thymeleaf. on the web page a user can log in view products, update products, remove them from the site and the database and put new products on the site.
